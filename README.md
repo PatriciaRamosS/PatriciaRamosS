@@ -2,6 +2,10 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/PatriciaRamosS/PatriciaRamosS/blob/main/Hi.gif" width="30px"></h2>
 </p>
 
+<p>
+  <h1 align="center"><b>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Patrícia Ramos <img src="https://github.com/PatriciaRamosS/PatriciaRamosS/blob/main/Hi.gif" width="30px"</b></h1>
+</p>
+
 <div align="center">
 
 You have finally discovered my Github profile. <br>
