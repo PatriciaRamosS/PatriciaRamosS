@@ -7,15 +7,14 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-To get in touch just send me an <a href="patricia.silva.ramos@outlook.com"><b>email</b></a>.  
+To get in touch just send me an <a href="mailto:patricia.silva.ramos@outlook.com"><b>email</b></a>.  
 
 <i>Happy Coding!</i> 😊
 
 </div>
 
- 
-<div> 
- 
-  ![Snake animation](https://github.com/PatriciaRamosS/PatriciaRamosS/blob/output/github-contribution-grid-snake.svg)
- 
+ <div>
+  <a href="https://github.com/PatriciaRamosS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
