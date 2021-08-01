@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Patrícia Ramos <img src="https://github.com/PatriciaRamosS/PatriciaRamosS/blob/main/Hi.gif" width="30px"</b></h1>
+  <h1 align="center"><b>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Patrícia Ramos 👋 </b></h1>
 </p>
 <br>
 <div>
